@@ -58,13 +58,11 @@ The report compares **Current Year (CY) vs Previous Year (PY)** across three cor
 
 ## 🚀 How to Run
 **Open in Power BI Desktop**
-   - Open [MediSupply Dashboard](https://github.com/olha-stoh/medisupply-dashboard)
+   - Open [MediSupply Dashboard]((https://github.com/OlhaStoh/medisupply-dashboard))
 
  **Explore the dashboard**
    - Use the **Year** buttons (2022–2025) to switch between periods
    - Apply **Segment / Category / Region** filters on the right panel
-   - Hover over charts for detailed tooltips
-
 
 ---
 
