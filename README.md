@@ -58,8 +58,7 @@ The report compares **Current Year (CY) vs Previous Year (PY)** across three cor
 
 ## 🚀 How to Run
 **Open in Power BI Desktop**
-   - Open [MediSupply Dashboard]((https://github.com/OlhaStoh/medisupply-dashboard))
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)]([[https://github.com/OlhaStoh/medisupply-dashboard]])
+[⬇️ Download Power BI File](https://github.com/OlhaStoh/medisupply-dashboard/raw/main/Sales_Analysis_Medisupply_OS.pbix)
 
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/OlhaStoh/medisupply-dashboard)
 
