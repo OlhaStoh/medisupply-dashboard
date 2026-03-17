@@ -31,8 +31,6 @@ The report compares **Current Year (CY) vs Previous Year (PY)** across three cor
 
 ## 💡 What Makes This Dashboard Stand Out
 
-> *One of the best dashboards seen this weekend — here's why:*
-
 **Strong KPI column design** — Combines overall totals with monthly sparklines so year-over-year context is visible at a glance, without needing to drill into detail pages.
 
 **Clear segment, category, and ship-mode comparisons** — Each chart surfaces where growth is accelerating and where decline is happening, making it easy to ask the right follow-up questions.
@@ -42,9 +40,6 @@ The report compares **Current Year (CY) vs Previous Year (PY)** across three cor
 **Radial sub-category breakdown** — Adds visual variety while keeping category comparisons intuitive and scannable.
 
 **Consistent design language** — Every card, chart, and filter follows the same dark navy + steel blue palette, typography scale, and layout logic — making the dashboard feel cohesive and executive-ready.
-
-> *What's especially effective is how clearly the story unfolds. You move from high-level totals to the drivers behind them — without hunting for extra context. The layout lets you review the full-year results while surfacing enough detail to spark questions about segments, regions, and delivery strategies.*
-
 ---
 
 ## 🛠 Tools & Tech
@@ -53,7 +48,7 @@ The report compares **Current Year (CY) vs Previous Year (PY)** across three cor
 |------|---------|
 | **Power BI Desktop** | Report development & data modeling |
 | **DAX** | KPI measures, YoY delta calculations, dynamic titles |
-| **Power Query ** | Data transformation & cleaning |
+| **Power Query** | Data transformation & cleaning |
 | **Custom Visuals** | Map chart, sparklines |
 
 ---
